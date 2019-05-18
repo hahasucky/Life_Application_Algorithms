@@ -22,3 +22,5 @@ print(f'the total interval is {str(total_min+total_sec//60)}:{str(total_sec%60)}
 print('i love you.')
 
 print('Visca El Barca')
+
+print('I hate Liverpool.')
